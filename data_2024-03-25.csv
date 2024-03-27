@@ -1,0 +1,101 @@
+user_id,rating,occupation,movie_name,genre
+1049,1,Engineer,movie18,Drama
+1073,1,Lawyer,movie9,Western
+1014,1,Farmer,movie4,Action
+1013,1,Engineer,movie3,Crime
+1062,1,Lawyer,movie9,Western
+1081,1,Farmer,movie13,Science Fiction
+1024,1,Doctor,movie2,Crime
+1092,1,Farmer,movie12,Drama
+1024,1,Doctor,movie20,Thriller
+1084,1,Lawyer,movie5,Drama
+1093,1,Lawyer,movie15,Science Fiction
+1034,1,Farmer,movie12,Drama
+1086,1,Doctor,movie8,Crime
+1087,1,Student,movie11,Drama
+1016,1,Student,movie11,Drama
+1057,1,Farmer,movie1,Drama
+1080,1,Doctor,movie8,Crime
+1083,1,Doctor,movie7,Fantasy
+1098,1,Lawyer,movie5,Drama
+1031,1,Doctor,movie18,Drama
+1099,1,Lawyer,movie5,Drama
+1032,1,Farmer,movie6,History
+1057,1,Farmer,movie7,Fantasy
+1100,1,Engineer,movie6,History
+1088,1,Student,movie14,Fantasy
+1073,1,Engineer,movie11,Drama
+1034,1,Doctor,movie13,Science Fiction
+1004,1,Farmer,movie14,Fantasy
+1022,1,Engineer,movie9,Western
+1002,1,Lawyer,movie20,Thriller
+1073,1,Doctor,movie18,Drama
+1025,1,Engineer,movie3,Crime
+1093,1,Student,movie20,Thriller
+1074,1,Engineer,movie11,Drama
+1047,1,Engineer,movie3,Crime
+1005,1,Farmer,movie16,Science Fiction
+1023,1,Engineer,movie16,Science Fiction
+1090,1,Student,movie6,History
+1011,1,Lawyer,movie16,Science Fiction
+1088,1,Farmer,movie13,Science Fiction
+1004,1,Engineer,movie9,Western
+1081,1,Farmer,movie1,Drama
+1082,1,Lawyer,movie1,Drama
+1057,1,Doctor,movie7,Fantasy
+1100,1,Farmer,movie13,Science Fiction
+1039,1,Doctor,movie14,Fantasy
+1005,1,Student,movie13,Science Fiction
+1002,1,Student,movie7,Fantasy
+1013,1,Farmer,movie11,Drama
+1080,1,Lawyer,movie14,Fantasy
+1067,1,Engineer,movie20,Thriller
+1058,1,Doctor,movie18,Drama
+1006,1,Farmer,movie2,Crime
+1056,1,Lawyer,movie1,Drama
+1063,1,Lawyer,movie9,Western
+1036,1,Farmer,movie10,Fantasy
+1077,1,Engineer,movie17,Crime
+1033,1,Farmer,movie12,Drama
+1021,1,Farmer,movie19,Action
+1032,1,Doctor,movie12,Drama
+1096,1,Farmer,movie1,Drama
+1002,1,Farmer,movie7,Fantasy
+1026,1,Lawyer,movie17,Crime
+1033,1,Doctor,movie3,Crime
+1090,1,Doctor,movie8,Crime
+1045,1,Student,movie9,Western
+1044,1,Farmer,movie15,Science Fiction
+1001,1,Farmer,movie19,Action
+1047,1,Doctor,movie19,Action
+1063,1,Doctor,movie14,Fantasy
+1086,1,Student,movie19,Action
+1090,1,Farmer,movie6,History
+1040,1,Lawyer,movie4,Action
+1048,1,Farmer,movie5,Drama
+1078,1,Lawyer,movie6,History
+1025,1,Doctor,movie1,Drama
+1009,1,Doctor,movie20,Thriller
+1070,1,Engineer,movie19,Action
+1025,1,Farmer,movie1,Drama
+1042,1,Lawyer,movie4,Action
+1066,1,Farmer,movie10,Fantasy
+1044,1,Farmer,movie4,Action
+1074,1,Doctor,movie12,Drama
+1070,1,Lawyer,movie4,Action
+1057,1,Lawyer,movie6,History
+1024,1,Engineer,movie6,History
+1026,1,Engineer,movie8,Crime
+1068,1,Lawyer,movie9,Western
+1014,1,Engineer,movie3,Crime
+1006,1,Student,movie2,Crime
+1010,1,Lawyer,movie13,Science Fiction
+1004,1,Lawyer,movie3,Crime
+1072,1,Lawyer,movie20,Thriller
+1055,1,Lawyer,movie6,History
+1003,1,Doctor,movie18,Drama
+1018,1,Student,movie8,Crime
+1085,1,Farmer,movie6,History
+1025,1,Engineer,movie17,Crime
+1015,1,Lawyer,movie10,Fantasy
+1045,1,Farmer,movie17,Crime
